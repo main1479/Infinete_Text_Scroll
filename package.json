@@ -1,0 +1,16 @@
+{
+  "name": "infinite_text_scroll",
+  "version": "1.0.0",
+  "description": "Infinite text scroll using HTML, CSS and JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass styles/sass/index.scss styles/css/index.css -w"
+  },
+  "keywords": [],
+  "author": "Mainul Islam",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.12.2",
+    "sass": "^1.69.5"
+  }
+}
